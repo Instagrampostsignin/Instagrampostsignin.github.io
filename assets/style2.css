@@ -1,0 +1,25 @@
+.insta_logo{
+    margin: auto;
+    width: 200px;
+    height: auto;
+  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+  }
+  
+  .responsive {
+    width: 500px;
+    height: auto;
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .belepes{
+    border-radius: 20px;
+    font-size: 18px;
+    text-align: center;
+  }
